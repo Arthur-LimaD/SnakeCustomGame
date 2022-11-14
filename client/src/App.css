@@ -1,0 +1,30 @@
+body {
+  margin: 40px 0 0 0;
+  padding: 0;
+  background-color: #EEE;
+  text-align: center;
+}
+
+#game-canvas {
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+  image-rendering: -moz-crisp-edges;
+  -webkit-box-shadow: 0px 4px 17px 0px rgba(0,0,0,0.19);
+  -moz-box-shadow: 0px 4px 17px 0px rgba(0,0,0,0.19);
+  box-shadow: 0px 4px 17px 0px rgba(0,0,0,0.19);
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  display: inline-block;
+  vertical-align: top;
+}
+.TableInfo{
+  width: 400px;
+  margin: 0 auto;
+  border: 1px solid grey;
+  box-shadow: 0px 4px 17px 0px rgba(0,0,0,0.19);
+}
+.TableInfo p strong{
+  text-decoration: underline;
+  text-decoration-color: rgb(241, 206, 6);
+}
