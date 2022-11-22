@@ -1,11 +1,15 @@
 # SnakeCustomGame
 
-This project is a Filipe Deschamps project variation but using different tools and lenguage. This project uses:
+This project is a Filipe Deschamps project variation but using different tools and language. This project uses:
 
 - TypeScript
 - React
 - NodeJS
 - Socket.io
+
+## Demonstration
+
+https://user-images.githubusercontent.com/98204950/203407137-bc2df1a9-3a0b-40dc-a1f0-fcb6b0681afb.mp4
 
 
 ## Strucuture
